@@ -1,16 +1,15 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PAC3: Dos Exemples d'Hibridació a través d l'òptica de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
-
-
-Autor: 
+### ACTUALMENT EDITANT. VERSIÓ DEFINITIVA DIMARTS 19 A LES 00:00h ### 
 
 
-Fecha: 
+Autor: Josep Maria Solé Bargalló
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+Fecha: Desembre 2023
 
+![Warhammer]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg)) 
 
+![Plex]([[https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg](https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook))) 
 
 ## Planteamiento
 
