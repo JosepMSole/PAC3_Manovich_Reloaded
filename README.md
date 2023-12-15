@@ -7,9 +7,11 @@ Autor: Josep Maria Solé Bargalló
 
 Data: Desembre 2023
 
-![Warhammer](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg)
+! [Warhammer & Plex] ([https://github.com/JosepMSole/PEC3_Manovich_Reloaded/blob/main/LOGOSS.jpg?raw=true](https://raw.githubusercontent.com/JosepMSole/PEC3_Manovich_Reloaded/7f883a40549f1cfbcf65f8d395b77c7ece0cbefe/LOGOSS.jpg))
 
-![Plex](https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook)
+
+
+
 
 ## Introducció
 
@@ -18,6 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## El Cas del Warhammer
+![Warhammer](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg)
 
 El Warhammer és un joc de miniatures de fantasia i ciència ficció creat per l’empresa britànica Games Workshop i que va aparèixer per primer cop l’any 1983. Es tracta de tota una experiència completa que s’ha anat gestant durant 40 anys i s’ha adaptat fins a dia d’avui. 
 
@@ -44,6 +47,7 @@ En resum, el Warhammer s’ha sabut adaptar als temps actuals i ha vist que ofer
 
 
 ## El Cas del Plex
+![Plex](https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook)
 
 L’any 2009 es va presentar el Plex, una eina que organitzar vídeos, música i fotos mitjançant llibreries personals i que permet fer-ne stream a dispositius mòbils, smartphones i reproductors de mitjans. El que va començar com un projecte personal com a hobby, ha esdevingut una potent eina que permet a qualsevol persona “fabricar-se el seu propi Netflix”.
 Aquest cas recent d’hibridació va aparèixer per donar solució a les persones que volien fer stream privat dels seus continguts propis, i en primera instància permetia adherir qualsevol vídeo i compartir-lo a altres usuaris de Plex, o per fer-ne stream a qualsevol dels altres dispositius multimèdia de casa. Per a fer aquesta tasca necessitarem si o si un servidor, una màquina dedicada 24/7, i des d’on aglutinarem tot el material i el compartirem. Si el nostre servidor està apagat, no podrem accedir a aquell contingut.
