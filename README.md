@@ -7,9 +7,9 @@ Autor: Josep Maria Solé Bargalló
 
 Data: Desembre 2023
 
-![Warhammer](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg
+![Warhammer](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg)
 
-![Plex]([(https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook]
+![Plex](https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook)
 
 ## Introducció
 
