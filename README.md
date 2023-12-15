@@ -7,9 +7,9 @@ Autor: Josep Maria Solé Bargalló
 
 Fecha: Desembre 2023
 
-![Warhammer]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg)) 
+![Warhammer]([(https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg])
 
-![Plex]([[https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://1000logos.net/wp-content/uploads/2020/09/Warhammer-logo.jpg](https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook))) 
+![Plex]([(https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook])
 
 ## Planteamiento
 
