@@ -10,11 +10,11 @@ Data: Desembre 2023
 
 
 ## Introducció
-L’eix conductor dels anàlisis que veurem a continuació parteix del concepte d’hibridació, postulat per Lev Manovich, on, al seu llibre *El Software toma el mando* (2013), fa un profund retrat del concepte amb molts exemples per facilitar-ne la comprensió.
+L’eix conductor dels anàlisis que veurem a continuació parteix del concepte d’**hibridació**, postulat per **Lev Manovich**, on, al seu llibre *El Software toma el mando* (2013), fa un profund retrat del concepte amb molts exemples per facilitar-ne la comprensió.
 
-La hibridació de mitjans parteix del concepte prèviament establert de que el software simula les tècniques físiques reals que empraríem per poder editar i manipular un element de vídeo, foto, àudio, documents….qualsevol mitjà, en definitiva.
+La **hibridació de mitjans** parteix del concepte prèviament establert de que el software simula les tècniques físiques reals que empraríem per poder editar i manipular un element de vídeo, foto, àudio, documents….qualsevol mitjà, en definitiva.
 
-Tanmateix, el fet d’aglutinar-ho en un mateix espai de treball provoca que les capacitats d’edició augmentin i es reforcin. D’aquí partiria el concepte d’hibridació. 
+Tanmateix, el fet d’aglutinar-ho en un mateix espai de treball provoca que les capacitats d’edició augmentin i es reforcin. D’aquí partiria el concepte d’**hibridació**. 
 
 Si tenim clar que: *“Simular un mitjà en software significa simular les seves eines i interfaces, més que el seu “material””* (Manovich, Lev. (2013) *El software toma el mando*), llavors queda més entenedor que la hibridació es com un punt de convergència per a multitud d’eines per editar, de milers de maneres diferents, la gran varietat de tipus d’arxius que hi trobem en els mitjans...i no només editar, per suposat. Opcions de visualització, comparativa, discriminació de resultats... i un llarg etcètera de capacitats i utilitats que dia a dia segueix creixent de manera exponencial.
 
