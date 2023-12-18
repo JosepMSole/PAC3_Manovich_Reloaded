@@ -1,8 +1,5 @@
 # PAC3: Dos Exemples d'Hibridació a través de l'òptica de Manovich 
 
-### !!ACTUALMENT EDITANT. VERSIÓ DEFINITIVA DIMARTS 19 A LES 00:00h!! ### 
-
-
 Autor: Josep Maria Solé Bargalló
 
 Data: Desembre 2023
@@ -12,11 +9,16 @@ Data: Desembre 2023
 
 
 
-
 ## Introducció
+L’eix conductor dels anàlisis que veurem a continuació parteix del concepte d’hibridació, postulat per Lev Manovich, on, al seu llibre *El Software toma el mando* (2013), fa un profund retrat del concepte amb molts exemples per facilitar-ne la comprensió.
 
-# #ENCARA EN WIP#
-Lorem ipsum dolor sit laborum.
+La hibridació de mitjans parteix del concepte prèviament establert de que el software simula les tècniques físiques reals que empraríem per poder editar i manipular un element de vídeo, foto, àudio, documents….qualsevol mitjà, en definitiva.
+
+Tanmateix, el fet d’aglutinar-ho en un mateix espai de treball provoca que les capacitats d’edició augmentin i es reforcin. D’aquí partiria el concepte d’hibridació. 
+
+Si tenim clar que: *“Simular un mitjà en software significa simular les seves eines i interfaces, més que el seu “material””* (Manovich, Lev. (2013) *El software toma el mando*), llavors queda més entenedor que la hibridació es com un punt de convergència per a multitud d’eines per editar, de milers de maneres diferents, la gran varietat de tipus d’arxius que hi trobem en els mitjans...i no només editar, per suposat. Opcions de visualització, comparativa, discriminació de resultats... i un llarg etcètera de capacitats i utilitats que dia a dia segueix creixent de manera exponencial.
+
+Així doncs, he decidit enfocar aquest anàlisis en dos temes dels que en sóc usuari: el món del hobby Warhammer, i el software de streaming Plex.
 
 
 ## El Cas del Warhammer
@@ -44,7 +46,18 @@ La sub-web ***“Warhammer Community”*** inclou més material: registre de par
 
 També hi ha accessos als diferents **videojocs** de la franquícia (des del 1991 se n’han publicat més de 100), agrupant un altre braç interactiu que fa que es pugui arribar a un altre sector del públic.
  
+![Warhammer](https://github.com/JosepMSole/PAC3_Manovich_Reloaded/blob/main/warhammer%20web.jpg?raw=true)
+
 En resum, el **Warhammer** s’ha sabut adaptar als temps actuals i ha vist que oferint tot el que podem trobar a la seva web el fan standard té el necessari per seguir amb el hobby. Un bon treball d’hibridació de mitjans (que es produeix a la interfície de l’usuari) per facilitar-ne l’accés i evitar que es perdi en la immensitat d’aquest extens univers de ficció. 
+
+Items destacats:
+
+1. Ficcions interactives
+2. Plataforma pròpia de vídeos
+3. Audio relats
+4. Subscripció al newsletter
+5. Botiga Online
+6. FAQs i preguntes a l’equip
 
 
 
@@ -52,7 +65,7 @@ En resum, el **Warhammer** s’ha sabut adaptar als temps actuals i ha vist que 
 ## El Cas del Plex
 ![Plex](https://mma.prnewswire.com/media/1777342/Plex_Logo.jpg?p=facebook)
 
-L’any 2009 es va presentar el **Plex**, una eina que organitza vídeos, música i fotos mitjançant llibreries personals i que permet fer-ne *stream* a dispositius mòbils, smartphones i reproductors de mitjans. El que va començar com un projecte personal com a hobby, ha esdevingut una potent eina que permet a qualsevol persona *“fabricar-se el seu propi Netflix”*.
+L’any 2009 es va presentar el **Plex**, una eina que organitza vídeos, música i fotos mitjançant llibreries personals i que permet fer-ne *stream* a dispositius mòbils, *smartphones* i reproductors de mitjans. El que va començar com un projecte personal com a hobby, ha esdevingut una potent eina que permet a qualsevol persona *“fabricar-se el seu propi Netflix”*.
 
 Aquest cas recent d’hibridació va aparèixer per donar solució a les persones que volien fer *stream* privat dels seus continguts propis, i en primera instància permetia adherir qualsevol vídeo i compartir-lo a altres usuaris de **Plex**, o per fer-ne *stream* a qualsevol dels altres dispositius multimèdia de casa. Per a fer aquesta tasca necessitarem si o si un servidor, una màquina dedicada 24/7, des d’on aglutinarem tot el material i el compartirem. Si el nostre servidor està apagat, no podrem accedir a aquell contingut.
 
@@ -66,13 +79,51 @@ A més a més, alguns serveis van començar a disposar de canals integrats dins 
 
 En resum, aquesta plataforma (que pesa ben poc) s’ha anat converitnt en una interface d’usuari que permet aglutinar **4 serveis en un sol lloc**: stream de vídeos, àudios i fotos, i un “canal” propi de contingut gratuït on podrem gaudir de pel·lícules i sèries en obert. Un cas recent d’hibridació centrada en l’*streaming* que segueix millorant dia a dia.
 
+![Plex](https://github.com/JosepMSole/PAC3_Manovich_Reloaded/blob/main/plex%20web.jpg?raw=true)
+
+Items destacats:
+
+1. Streaming privat de Video
+2. Bases de dades
+3. Streaming privat d’Àudio
+4. Opcions d’usuari
+5. Streaming privat de Fotos
+6. Canal propi de streaming
+
 
 
 ### Breu conclusió
-# #ENCARA EN WIP#
+Quan es posa l’òptica concreta en alguns aspectes puntuals, ja sigui amb un recorregut de 20 anys, o de 5, es poden apreciar les tasques i millores que s’han anat oferint a mesura que han anat passant els anys.
 
-### Referencias y Bibliografía
-# #ENCARA EN WIP#
+En primer lloc, amb el tema del **Warhammer** vaig ser usuari per primer cop l’any 1999, i recordo com era la pàgina web d’aquella època i els serveis que s’hi oferien. Inclús vaig fer alguna que altra comanda online entre 2001-02, i realment aquesta web, i de retruc el hobby **Warhammer** en global, són un bon exemple d’**hibridació**, ja que aquest portal ha esdevingut un extens centre d’entreteniment per les diferents possibilitats que ofereix a l’usuari. Apart, ha sabut convertir-se en una experiència conjunta a la qual es pot accedir i visualitzar còmodament des de qualsevol dispositiu (sobretot mòbil, el que impera).
+
+Per altra banda, el **Plex** el vaig descobrir a finals de 2018 i em va semblar una manera genial de poder agrupar en col·leccions els diferents vídeos que tinguis. Jo em dedico als *motion graphics* i la postproducció en general des del 2008, i estava buscant una solució per poder agrupar tots els vídeos que vas fent i que tens a l’arxiu, per poder veure’ls en qualsevol dispositiu de casa quan sigui, o poder-li ensenyar a algun client potencial. De rebot, l’aplicació també em va solucionar el tema de posar llistes d’àudio personalitzades, a vegades amb gravacions de grups musicals de companys/amics... El que no he explorat tant és la part de les fotos, però puc afirmar que m’ha solucionat un neguit que feia anys que pensava, i m’ofereix les possibilitats que buscava, com editar la metadata dels arxius, incloure posters i portades personalitzades, crear llistes temàtiques pròpies, guardar certs capítols de certes sèries en llistes de reproducció *custom*, poder compartir les llistes que vulgui amb els usuaris que vulgui, recordar que tota l’experiència és totalment gratuïta (com a aplicació, donant per fet que s’ha de fer una mínima inversió en un servidor dedicat 24/7)...
+
+En conclusió, poder analitzar aquesta web i aquesta eina que ja fa temps que utilitzo de forma periòdica, m’ha fet donar compte de com han anat hibridant els serveis i possibilitats en els últims 20 anys, i sobretot de la hegemonia dels algoritmes, que en definitiva són els que hi ha darrere de tota aquesta complexitat de processos i tècniques basades en 0 i 1, i fonamentades damunt d’unes estructures de dades sobre les quals s’erigeix cada una d’aquestes eines de software.
+
+El camí demostra que el pensament cognitiu col·lectiu ja té interioritzat un idioma amb el qual interactuar amb aquestes eines, i que la direcció seguirà sent la de unificar les possibilitats cada cop més i més, amb usuaris cada cop més i millor adoctrinats, i de ben segur que en el futur (més aviat proper) veurem opcions que fins fa poc eren exclusives de la ciència-ficció, i on la intel·ligència artificial hi té un paper clau. 
+
+
+### Bibliografia
+* Wikipedia (2023). Disponible a:
+
+https://es.wikipedia.org/wiki/Games_Workshop  (Consultat: 11 de desembre de 2023)
+
+https://en.wikipedia.org/wiki/List_of_Games_Workshop_video_games  (Consultat: 12 de desembre de 2023)
+
+https://es.wikipedia.org/wiki/Plex_(software) (Consultat: 13 de desembre de 2023)
+
+* Webs del Warhammer (2023). Disponible a:
+
+https://www.warhammer.com/es-ES/home (Consultat: 11 de desembre de 2023, tot i que habitualment des de finals de 2021)
+
+https://gamesworkshop.fandom.com/wiki/Warhammer_Plus (Consultat: 12 de desembre de 2023)
+
+https://www.warhammer-community.com/ (Consultat: 15 de desembre de 2023, tot i que habitualment des de finals de 2021))
+
+* Web del Plex (2023). Disponible a:
+https://www.plex.tv/  (Consultat: 12 de desembre de 2023)
+
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
