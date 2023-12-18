@@ -130,4 +130,4 @@ https://www.plex.tv/  (Consultat: 12 de desembre de 2023)
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0.
