@@ -18,7 +18,7 @@ Tanmateix, el fet d’aglutinar-ho en un mateix espai de treball provoca que les
 
 Si tenim clar que: *“Simular un mitjà en software significa simular les seves eines i interfaces, més que el seu “material””* (Manovich, Lev. (2013) *El software toma el mando*), llavors queda més entenedor que la hibridació es com un punt de convergència per a multitud d’eines per editar, de milers de maneres diferents, la gran varietat de tipus d’arxius que hi trobem en els mitjans...i no només editar, per suposat. Opcions de visualització, comparativa, discriminació de resultats... i un llarg etcètera de capacitats i utilitats que dia a dia segueix creixent de manera exponencial.
 
-Així doncs, he decidit enfocar aquest anàlisis en dos temes dels que en sóc usuari: el món del hobby Warhammer, i el software de streaming Plex.
+Així doncs, he decidit enfocar aquest anàlisis en dos temes dels que en sóc usuari: el món del hobby **Warhammer**, i el software de streaming **Plex**.
 
 
 ## El Cas del Warhammer
